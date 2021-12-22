@@ -8,4 +8,15 @@
   "profile": {
     "name": "typicode"
   }
+  "courses": [
+    "Python": [
+      {
+        "id": 1,
+        "title": "Python 101"
+      }
+    ],
+    "Java": {
+      "name": "Java 101"
+    }
+  ]
 }
