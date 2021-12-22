@@ -1,28 +1,25 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-  "courses": [
-    {
-      "Python": 
-        {
-          "id": 1,
-          "title": "Python 101"
-        }
-    },
-    {
-      "Java": 
-        {
-          "id": "2"
-          "title": "Java 101"
-        }
-    }
-    
-  ]
+   "posts":[
+      {
+         "id":1,
+         "title":"hello"
+      }
+   ],
+   "profile":{
+      "name":"typicode"
+   },
+   "courses":[
+      {
+         "Python":{
+            "id":1,
+            "title":"Python 101"
+         }
+      },
+      {
+         "Java":{
+            "id":"2",
+            "title":"Java 101"
+         }
+      }
+   ]
 }
