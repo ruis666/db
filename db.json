@@ -9,14 +9,20 @@
     "name": "typicode"
   }
   "courses": [
-    "Python": [
-      {
-        "id": 1,
-        "title": "Python 101"
-      }
-    ],
-    "Java": {
-      "name": "Java 101"
+    {
+      "Python": 
+        {
+          "id": 1,
+          "title": "Python 101"
+        }
+    },
+    {
+      "Java": 
+        {
+          "id": "2"
+          "title": "Java 101"
+        }
     }
+    
   ]
 }
