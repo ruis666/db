@@ -10,17 +10,16 @@
    },
    "courses":[
       {
-            "courseTitle":"Python"
-            "id":1,
-            "courseNum":"Python 101",
-            "description":"This is a python introduction."
+         "courseTitle":"Python"
+         "id":1,
+         "courseNum":"Python 101",
+         "description":"This is a python introduction."
       },
       {
-            "courseTitle":"Java"
-            "id":"2",
-            "courseNum":"Java 101",
-            "description":"This is a test description for Java course"
-         }
+         "courseTitle":"Java"
+         "id":"2",
+         "courseNum":"Java 101",
+         "description":"This is a test description for Java course"
       }
    ]
 }
